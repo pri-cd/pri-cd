@@ -13,7 +13,7 @@ I am a passionate MBA student with a strong foundation in C/C++ and a basic unde
 
 ## 🌱 Currently Learning
 
-I am currently focused on Data Analytics, Mathematics, and Machine Learning. My goal is to Achive great heights in corporate world.
+I am currently focused on Data Analytics, Mathematics, and Machine Learning. My goal is to Achieve great heights in the corporate world.
 
 ## 📫 Connect with Me
 
@@ -22,10 +22,6 @@ Feel free to connect with me on:
 - [LinkedIn](www.linkedin.com/in/prithvee-raj)
 - [Email](mailto:prithvee11901@gmail.com)
 
-## 🚧 My Projects
-
-- [Project 1](link-to-project1): Brief description or purpose of the project.
-- [Project 2](link-to-project2): Brief description or purpose of the project.
 
 ## 📈 GitHub Stats
 
