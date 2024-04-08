@@ -4,6 +4,8 @@
 
 Greetings, fellow otaku! I'm [Your Name], a passionate anime and manga aficionado, and this is my GitHub sanctuary where I channel my inner ninja and bring my coding projects to life.
 
+![Anime Coding GIF](https://media.giphy.com/media/1Bgr7fJYyxUrRGMNqC/giphy.gif)
+
 ## 🔮 About Me 🔮
 
 - 🎨 I'm a versatile developer who can wield the power of various programming languages and frameworks like a true anime protagonist.
@@ -18,6 +20,14 @@ Greetings, fellow otaku! I'm [Your Name], a passionate anime and manga aficionad
 - ⚡ Node.js: Harnessing the lightning of the server-side
 - 🌪️ Python: Commanding the cyclone of data analysis
 - 🌍 HTML/CSS: Weaving the fabric of the digital world
+
+<div class="skill-icons">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="JavaScript" width="50" height="50">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50" height="50">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node.js" width="50" height="50">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Python" width="50" height="50">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML/CSS" width="50" height="50">
+</div>
 
 ## 🗺️ My Coding Adventures 🗺️
 
@@ -36,3 +46,25 @@ Explore the vast repository of my coding projects, where I've embarked on countl
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
 Let's embark on a coding adventure together, where we can explore the endless possibilities of the digital realm, just like the heroes in our favorite anime series!
+
+<style>
+  .skill-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .skill-icons img {
+    margin: 0 10px;
+    animation: rotate 2s infinite linear;
+  }
+
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+</style>
