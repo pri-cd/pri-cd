@@ -1,70 +1,37 @@
-# 🌟 Anime Enthusiast's GitHub Portfolio 🌟
+# Hi there, I'm Prithvee Raj Singh 👋
 
-## 🏯 Welcome to my GitHub Dojo! 🏯
+## 🚀 About Me
 
-Greetings, fellow otaku! I'm [Your Name], a passionate anime and manga aficionado, and this is my GitHub sanctuary where I channel my inner ninja and bring my coding projects to life.
+I am a passionate MBA student with a strong foundation in C/C++ and a basic understanding of Java and Python. My expertise lies in Embedded C, where I have gained valuable experience working on [mention any specific projects or applications]. I am enthusiastic about leveraging technology to solve real-world problems and continuously expanding my knowledge in the field.
 
-![Anime Coding GIF](https://media.giphy.com/media/1Bgr7fJYyxUrRGMNqC/giphy.gif)
+## 🔧 Skills
 
-## 🔮 About Me 🔮
+- **Languages:** C/C++, Java, Python (basics)
+- **Embedded Systems:** Proficient in Embedded C
+- **Problem Solving:** Strong analytical and problem-solving skills
+- **Teamwork:** Collaborative and effective team player
 
-- 🎨 I'm a versatile developer who can wield the power of various programming languages and frameworks like a true anime protagonist.
-- 🤖 I'm always on the hunt for the latest advancements in technology, just like an android searching for its purpose.
-- 🌌 My code is as fluid as the animation in my favorite anime series, always striving for perfection.
-- 🗡️ I'm a master of problem-solving, slicing through challenges with the precision of a samurai's blade.
+## 🌱 Currently Learning
 
-## 🛡️ My Arsenal of Skills 🛡️
+I am currently focused on Data Analytics, Mathematics, and Machine Learning. My goal is to Achieve great heights in the corporate world.
 
-- 🔥 JavaScript: Unleashing the power of the Demon Blade
-- 🌊 React: Surfing the tides of the UI ocean
-- ⚡ Node.js: Harnessing the lightning of the server-side
-- 🌪️ Python: Commanding the cyclone of data analysis
-- 🌍 HTML/CSS: Weaving the fabric of the digital world
+## 📫 Connect with Me
 
-<div class="skill-icons">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="JavaScript" width="50" height="50">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50" height="50">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node.js" width="50" height="50">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Python" width="50" height="50">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML/CSS" width="50" height="50">
-</div>
+Feel free to connect with me on:
 
-## 🗺️ My Coding Adventures 🗺️
+- [LinkedIn](www.linkedin.com/in/prithvee-raj)
+- [Email](mailto:prithvee11901@gmail.com)
 
-Explore the vast repository of my coding projects, where I've embarked on countless quests to slay bugs, optimize performance, and push the boundaries of innovation.
 
-| Project | Description |
-| --- | --- |
-| [Anime Trivia Bot](https://github.com/your-username/anime-trivia-bot) | A Discord bot that tests your anime knowledge with a barrage of trivia questions. |
-| [Manga Scraper](https://github.com/your-username/manga-scraper) | A web scraper that fetches the latest updates from your favorite manga websites. |
-| [Pixel Art Generator](https://github.com/your-username/pixel-art-generator) | A tool that allows you to create retro-style pixel art, perfect for indie game developers. |
+## 📈 GitHub Stats
 
-## 🌟 Connect with Me 🌟
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pri-cd&show_icons=true&theme=radical)
 
-- 🐦 Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- 📷 Instagram: [@your-instagram-handle](https://instagram.com/your-instagram-handle)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+## 📚 My Articles
 
-Let's embark on a coding adventure together, where we can explore the endless possibilities of the digital realm, just like the heroes in our favorite anime series!
+- [Article 1](link-to-article1): Cancer Recognition of Prostate Gland Using Deep Learning, Keras & Tensorflow.
 
-<style>
-  .skill-icons {
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-  }
+## 🤝 Let's Collaborate
 
-  .skill-icons img {
-    margin: 0 10px;
-    animation: rotate 2s infinite linear;
-  }
+I'm always open to collaboration and eager to contribute to exciting projects. If you have an interesting project or idea, feel free to reach out!
 
-  @keyframes rotate {
-    0% {
-      transform: rotate(0deg);
-    }
-    100% {
-      transform: rotate(360deg);
-    }
-  }
-</style>
