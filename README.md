@@ -19,7 +19,7 @@ I am currently focused on Data Analytics, Mathematics For Deep-Learning, and Mac
 
 Feel free to connect with me on:
 
-- [LinkedIn](www.linkedin.com/in/prithvee-raj)
+- [LinkedIn](https://www.linkedin.com/in/prithvee-raj)
 - [Email](mailto:prithvee11901@gmail.com)
 
 
