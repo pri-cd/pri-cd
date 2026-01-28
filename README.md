@@ -2,12 +2,12 @@
 
 ## 🚀 About Me
 
-I am a passionate MBA student with a strong foundation in C/C++ and a basic understanding of Java and Python. My expertise lies in Embedded C, where I have gained valuable experience working on Microcontrollers & Microprocessors. I am enthusiastic about leveraging technology to solve real-world problems and continuously expanding my knowledge in the field of Embedded Development, Machine Learning, Data Analytics and Computer Vision.
+I am a passionate MBA student with a strong foundation in C/C++ and a basic understanding of Java and Python. My expertise lies in Data Analytics, where I have gained valuable experience working on Projects & Courses. I am enthusiastic about leveraging technology to solve real-world problems and continuously expanding my knowledge in the field of Data Analytics, Machine Learning, AI and, Telling stories from Data.
 
 ## 🔧 Skills
 
 - **Languages:** C/C++, Java, Python.
-- **Embedded Systems:** Proficient in Embedded C.
+- **Tools:** Jupyter Notebook, Kaggle, Power BI, Advanced Excel, Pandas, SQL, VsCode, Eclipse, Linux. 
 - **Problem Solving:** Strong analytical and problem-solving skills.
 - **Teamwork:** Collaborative.
 
