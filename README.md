@@ -1,37 +1,62 @@
-# Hi there, I'm Prithvee Raj Singh 👋
+---
+
+## 👋 Hi there, I'm Prithvee Raj Singh
 
 ## 🚀 About Me
 
-I am a passionate MBA student with a strong foundation in C/C++ and a basic understanding of Java and Python. My expertise lies in Data Analytics, where I have gained valuable experience working on Projects & Courses. I am enthusiastic about leveraging technology to solve real-world problems and continuously expanding my knowledge in the field of Data Analytics, Machine Learning, AI and, Telling stories from Data.
+I am an MBA graduate currently transitioning into the field of **Web Development**. I’m at the early stage of my journey, focused on building a strong foundation in Full-Stack Development.
+Right now, I’m learning and practicing **HTML and CSS**, taking the time to understand core concepts properly before moving on to JavaScript and more advanced technologies. I enjoy problem-solving and learning by building, and I’m committed to growing step-by-step into a skilled web developer.
+
+---
 
 ## 🔧 Skills
 
-- **Languages:** C/C++, Java, Python.
-- **Tools:** Jupyter Notebook, Kaggle, Power BI, Advanced Excel, Pandas, SQL, VsCode, Eclipse, Linux. 
-- **Problem Solving:** Strong analytical and problem-solving skills.
-- **Teamwork:** Collaborative.
+* **Web Development:** HTML, CSS, JS, React
+* **Programming:** C/C++, Python, Make, Django.
+* **Tools:** VS Code, Jupyter Notebook, Kaggle, Power BI, Advanced Excel, Eclipse, Linux
+* **Core Strengths:** Problem-solving, consistency, willingness to learn
+
+---
 
 ## 🌱 Currently Learning
 
-I am currently focused on Data Analytics, Mathematics For Deep-Learning, and Machine Learning. 
+* CSS (Layouts, Flexbox, Grid, Responsiveness)
+* Web Development Fundamentals
+* Preparing for JavaScript
+
+---
+
+## 🎯 Goals
+
+* Build responsive and visually clean websites
+* Develop strong frontend fundamentals
+* Transition into a web developer role
+* Continue learning and improving through real-world projects
+
+---
 
 ## 📫 Connect with Me
 
-Feel free to connect with me on:
+* [LinkedIn](https://www.linkedin.com/in/prithvee-raj)
+* [Email](mailto:prithvee11901@gmail.com)
 
-- [LinkedIn](https://www.linkedin.com/in/prithvee-raj)
-- [Email](mailto:prithvee11901@gmail.com)
-
+---
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pri-cd&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pri-cd\&show_icons=true\&theme=radical)
+
+---
 
 ## 📚 My Articles
 
-- [Article 1](link-to-article1): Cancer Recognition of Prostate Gland Using Deep Learning, Keras & Tensorflow.
+* Cancer Recognition of Prostate Gland Using Deep Learning, Keras & TensorFlow
+
+---
 
 ## 🤝 Let's Collaborate
 
-I'm always open to collaboration and eager to contribute to exciting projects. If you have an interesting project or idea, feel free to reach out!
+I’m open to collaborating on beginner-friendly web development projects where I can learn, contribute, and grow. Feel free to connect!
+
+---
 
