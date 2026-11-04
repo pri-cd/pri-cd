@@ -5,24 +5,15 @@
 ## 🚀 About Me
 
 I am an MBA graduate currently transitioning into the field of **Web Development**. I’m at the early stage of my journey, focused on building a strong foundation in Full-Stack Development.
-Right now, I’m learning and practicing **HTML and CSS**, taking the time to understand core concepts properly before moving on to JavaScript and more advanced technologies. I enjoy problem-solving and learning by building, and I’m committed to growing step-by-step into a skilled web developer.
+Right now, I’m learning and practicing **Front-end & Back-end tools**, taking the time to understand core concepts properly.
 
 ---
 
 ## 🔧 Skills
 
-* **Web Development:** HTML, CSS, JS, React
-* **Programming:** C/C++, Python, Make, Django.
-* **Tools:** VS Code, Jupyter Notebook, Kaggle, Power BI, Advanced Excel, Eclipse, Linux
-* **Core Strengths:** Problem-solving, consistency, willingness to learn
-
----
-
-## 🌱 Currently Learning
-
-* CSS (Layouts, Flexbox, Grid, Responsiveness)
-* Web Development Fundamentals
-* Preparing for JavaScript
+* **Web Development:** HTML, CSS, JS, Python, Django, Git, GitHub 
+* **Tools:** VS Code, Jupyter Notebook, Linux
+* **Core Strengths:** Problem-solving, consistency.
 
 ---
 
@@ -45,12 +36,6 @@ Right now, I’m learning and practicing **HTML and CSS**, taking the time to un
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pri-cd\&show_icons=true\&theme=radical)
-
----
-
-## 📚 My Articles
-
-* Cancer Recognition of Prostate Gland Using Deep Learning, Keras & TensorFlow
 
 ---
 
