@@ -33,12 +33,6 @@ Right now, I’m learning and practicing **Front-end & Back-end tools**, taking 
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pri-cd\&show_icons=true\&theme=radical)
-
----
-
 ## 🤝 Let's Collaborate
 
 I’m open to collaborating on beginner-friendly web development projects where I can learn, contribute, and grow. Feel free to connect!
